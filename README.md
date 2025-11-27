@@ -2,8 +2,8 @@
 
 In this video, we’re taking a high-level look at how you can use Python for Excel automation, especially if you’re coming from a VBA background. If you’ve ever felt like VBA was holding you back or you’re just curious how Python could fit into your Excel workflow, this is a great starting point.<br>
 
-## Video Tutorial (coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/xD5CMlAp4HY/0.jpg)](https://youtu.be/xD5CMlAp4HY)
 
 
 ## 🤓 Check Out My Excel Add-ins
